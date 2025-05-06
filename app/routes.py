@@ -45,3 +45,4 @@ def pokenea_html():
                         imagen=image_url, 
                         frase=pokenea.frase,
                         container_id=container_id)
+
